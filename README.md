@@ -1,2 +1,2 @@
 # Core
-### Play Game 
+### Play Game [🎮](https://akshatrastogi25.github.io/Core/)
